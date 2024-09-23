@@ -1,6 +1,6 @@
 # Layoff_analysis
 
-# Overview
+## Overview
 The Layoff analysis of data empovers the quit understanding of layoff processes from many multinational companies and their corresponding laocations. This analysis provide clear sight of Technology market and it amount of requirement in a specific period.The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
 ## Objectives
