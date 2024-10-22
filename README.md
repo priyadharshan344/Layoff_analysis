@@ -23,4 +23,7 @@ CREATE TABLE `layoffs_staging` (
   `country` text,
   `funds_raised_millions` int DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+```
+## Data cleaning
+[Fired Queries for data cleaning](https://github.com/priyadharshan344/Layoff_analysis/blob/main/Layoff%20Project%20-%20Data%20Cleaning.sql)
 
