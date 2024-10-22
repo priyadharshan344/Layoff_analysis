@@ -27,3 +27,6 @@ CREATE TABLE `layoffs_staging` (
 ## Data cleaning
 [Fired Queries for data cleaning](https://github.com/priyadharshan344/Layoff_analysis/blob/main/Layoff%20Project%20-%20Data%20Cleaning.sql)
 
+## Exploratory data analysis
+[EDA Queries](https://github.com/priyadharshan344/Layoff_analysis/blob/main/Layoff%20Project%20-%20EDA.sql)
+
